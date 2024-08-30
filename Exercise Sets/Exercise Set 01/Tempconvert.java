@@ -2,7 +2,7 @@ import java. util. Scanner;
 class Tempconvert {
     public static void main(String[] args) {
         Scanner scanner = new Scanner (System.in);
-        System.out.println("Enter a Celcius Value:");
+        System.out.print("Enter a Celcius Value:");
         double celsius = scanner.nextDouble ();
         
         double fahrenheit = (celsius * 9/5) + 32;

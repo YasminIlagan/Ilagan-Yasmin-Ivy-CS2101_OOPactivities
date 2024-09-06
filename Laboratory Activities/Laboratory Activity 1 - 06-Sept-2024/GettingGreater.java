@@ -6,20 +6,20 @@ public class GettingGreater {
 
         System.out.println("Getting the Greater Value");
         System.out.print("Enter first character: ");
-        char ch1 = scanner.next().charAt(0); 
+        char char1 = scanner.next().charAt(0); 
 
         System.out.print("Enter second character: ");
-        char ch2 = scanner.next().charAt(0); 
+        char char2 = scanner.next().charAt(0); 
 
         System.out.println("---------------------------------------");
-        char greaterChar = (char) Math.max(ch1, ch2);
+        char greaterChar = (char) Math.max(char1, char2);
         System.out.println("The character with greater value is: " + greaterChar);
         System.out.println("---------------------------------------");
 
         System.out.println();
         System.out.println("Showing the ASCII Codes");
-        System.out.println(ch1 + " : " + (int) ch1);
-        System.out.println(ch2 + " : " + (int) ch2);
+        System.out.println(char1 + " : " + (int) char1);
+        System.out.println(char2 + " : " + (int) char2);
 
         scanner.close();
     }

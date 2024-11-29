@@ -59,32 +59,12 @@ This repository contains all laboratory activities and exercise sets for the cou
 ## ✅ Checklist of Activities  
 ### 📂 Laboratory Activities  
 - [x] **Activity 1: Basic Input Handling**  
-  - Implemented basic input/output functionality.  
-  - Verified with screenshots.  
 - [x] **Activity 2: Arrays and Loops**  
-  - Calculated array means and displayed multiplication tables.  
-  - Verified with screenshots.  
 - [x] **Activity 3: Classes and Inheritance**  
-  - Designed base and derived classes for artists (e.g., Singer, Dancer, Painter).  
-  - Verified with output screenshots for each derived class.  
 - [x] **Activity 4: Shapes and Collections**  
-  - Demonstrated polymorphism and collections using shape classes.  
-  - Verified with screenshots.  
+ 
 
 ### 📂 Exercise Sets  
 - [x] **Exercise Set 1**  
-  - Created introductory programs using escape sequences, temperature conversion, and welcome messages.  
+  
 
----
-
-## ✨ How to Use This Repository  
-1. Navigate to the desired activity or exercise folder.  
-2. Open the `.java` files to view the code implementation.  
-3. Refer to the respective output files/screenshots for program results.  
-
----
-
-## 🤩 Get Creative!  
-This repository demonstrates creativity and mastery of OOP concepts, as evidenced by structured file organization, efficient code, and polished output results.  
-
-Happy coding! ✨  
